@@ -14,9 +14,9 @@ const postListStyle = {
   },
   box:{
     borderRadius: '7px',
-    width: '80%',
-    padding: '10px',
-    margin: '5px',
+    width: '70%',
+    padding: '5px',
+    margin: '3px',
     backgroundColor: 'white',
     border: '2px solid black',
     display: 'flex',

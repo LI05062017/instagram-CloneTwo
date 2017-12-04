@@ -9,8 +9,8 @@ const titleStyle = {
     float: 'right'
   },
   img: {
-  padding: '-10%',
-  width: '17%',
+  padding: '2%',
+  width: '40%',
   }
 }
 
@@ -18,8 +18,7 @@ const Title = () => {
   return (
     <div style={titleStyle.container}> 
      <div style={titleStyle.box}>
-      <h1> Instagram Clone </h1>
-      <img style={titleStyle.img} src='http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png'/>
+      <img style={titleStyle.img} src='http://pluspng.com/img-png/instagram-png-instagram-logo-2-png-8-de-abril-de-2017-927-kb-3500-3393-3500.png'/>
       </div>
     </div>
   )
