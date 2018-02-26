@@ -1,3 +1,5 @@
+Instagram Clone - Homework Assignment through Coding Bootcamp
+
 1) Make sure mongo DB is runnining
 `sudo mongod`
 
@@ -21,3 +23,6 @@ You can run both the previous steps in one command:
 `npm run start:server`
 
 Browser is loaded at `localhost:3000` and server api is located at `localhost:3001`
+
+Motivation:
+This project was built as a homework assignment. It was an App designed to work similar to instagram, where there are pcitures with descriptions. I was motivated to make mine look as similar to instagram, and have the font-end make calls to the back-end to be able to render the data I wanted.
